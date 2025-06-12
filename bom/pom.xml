@@ -4,7 +4,7 @@
   <parent>
     <groupId>no.jonasandersen.common</groupId>
     <artifactId>common-parent</artifactId>
-    <version>4-SNAPSHOT</version>
+    <version>4</version>
   </parent>
 
   <artifactId>bom</artifactId>
@@ -15,12 +15,12 @@
       <dependency>
         <groupId>no.jonasandersen.common</groupId>
         <artifactId>logging</artifactId>
-        <version>4-SNAPSHOT</version>
+        <version>4</version>
       </dependency>
       <dependency>
         <groupId>no.jonasandersen.common</groupId>
         <artifactId>spring-thymeleaf-htmx-dependencies</artifactId>
-        <version>4-SNAPSHOT</version>
+        <version>4</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
