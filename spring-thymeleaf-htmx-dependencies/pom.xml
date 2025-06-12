@@ -8,7 +8,6 @@
   </parent>
 
   <artifactId>spring-thymeleaf-htmx-dependencies</artifactId>
-  <packaging>pom</packaging>
 
   <dependencies>
     <dependency>
