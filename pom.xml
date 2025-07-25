@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>no.jonasandersen.common</groupId>
   <artifactId>common-parent</artifactId>
-  <version>6-SNAPSHOT</version>
+  <version>6</version>
   <packaging>pom</packaging>
   <modules>
     <module>bom</module>
@@ -62,8 +62,8 @@
   <scm>
     <connection>scm:git:git@github.com:jonasandersen-no/common.git</connection>
     <developerConnection>scm:git:git@github.com:jonasandersen-no/common.git</developerConnection>
-    <tag></tag>
-    <url></url>
+    <tag>v6</tag>
+    <url />
   </scm>
 
   <build>
